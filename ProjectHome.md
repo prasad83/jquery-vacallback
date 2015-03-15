@@ -1,0 +1,1 @@
+Easy creation of callback function with variable arguments.
